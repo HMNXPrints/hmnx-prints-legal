@@ -46,11 +46,15 @@ Der Anbieter haftet unbeschränkt für Vorsatz und grobe Fahrlässigkeit sowie b
 
 Da es sich bei den bestellten Produkten um Einzelanfertigungen im 3D-Druck nach Kundenwunsch handelt, die erst nach Bestellung gefertigt werden, ist das Widerrufsrecht gemäß § 312g Abs. 2 Nr. 1 BGB vollständig ausgeschlossen.
 
-## § 10 Streitbeilegung
+## § 10 Stornierung nach Fertigungsbeginn
+
+Eine Stornierung ist bis zum Beginn der Fertigung kostenfrei möglich. Wurde mit der Fertigung bereits begonnen, werden die bis dahin entstandenen Material- und Fertigungskosten in Rechnung gestellt bzw. nicht erstattet. Der übrige, noch nicht verbrauchte Betrag wird zurückerstattet.
+
+## § 11 Streitbeilegung
 
 Der Anbieter ist nicht bereit und nicht verpflichtet, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
-## § 11 Schlussbestimmungen
+## § 12 Schlussbestimmungen
 
 Es gilt das Recht der Bundesrepublik Deutschland. Sollte eine Bestimmung dieser AGB unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
 
