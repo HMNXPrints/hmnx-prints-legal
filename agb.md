@@ -1,6 +1,6 @@
 # AGB und Widerrufsbedingungen
 
-**HMNX Prints** · Stephan Peter · Am Stadtgarten 9 · 78647 Trossingen
+**HMNX.Prints** · Stephan Peter · Am Stadtgarten 9 · 78647 Trossingen
 
 > Das Impressum finden Sie in der separaten Datei [impressum.md](impressum.md).
 > Die Datenschutzhinweise finden Sie in [datenschutz.md](datenschutz.md).
@@ -23,15 +23,21 @@
   - [Muster-Widerrufsformular](#muster-widerrufsformular)
 - [§ 10 Stornierung nach Fertigungsbeginn](#-10-stornierung-nach-fertigungsbeginn)
 - [§ 11 Streitbeilegung](#-11-streitbeilegung)
-- [§ 12 Schlussbestimmungen](#-12-schlussbestimmungen)
+- [§ 12 Digitale Inhalte](#-12-digitale-inhalte)
+  - [Vertragsschluss und Bereitstellung](#vertragsschluss-und-bereitstellung)
+  - [Nutzungsrechte](#nutzungsrechte)
+  - [Widerrufsrecht bei digitalen Inhalten](#widerrufsrecht-bei-digitalen-inhalten)
+- [§ 13 Schlussbestimmungen](#-13-schlussbestimmungen)
 
 ---
 
 ## § 1 Geltungsbereich
 
-Diese AGB gelten für alle Bestellungen von 3D-Druck-Produkten und 3D-Druck-Dienstleistungen bei Stephan Peter, HMNX Prints, Am Stadtgarten 9, 78647 Trossingen (nachfolgend **„Anbieter"**) durch Verbraucher (§ 13 BGB) sowie durch Unternehmer (§ 14 BGB).
+Diese AGB gelten für alle Bestellungen von 3D-Druck-Produkten, 3D-Druck-Dienstleistungen sowie digitalen Inhalten (z. B. Anleitungen, Vorlagen oder Dateien als Download) bei Stephan Peter, HMNX.Prints, Am Stadtgarten 9, 78647 Trossingen (nachfolgend **„Anbieter"**) durch Verbraucher (§ 13 BGB) sowie durch Unternehmer (§ 14 BGB).
 
-Der Anbieter betreibt das 3D-Druck-Angebot als Kleinunternehmer im Sinne des § 19 UStG.
+Der Anbieter betreibt das Angebot als Kleinunternehmer im Sinne des § 19 UStG.
+
+Für digitale Inhalte gelten ergänzend und vorrangig die Bestimmungen in [§ 12](#-12-digitale-inhalte).
 
 ---
 
@@ -46,7 +52,7 @@ Der Ablauf einer Bestellung ist wie folgt:
 | **3** | Der Kunde nimmt das Angebot an, indem er die Zahlung über den bereitgestellten Zahlungslink bzw. QR-Code auslöst. |
 | **4** | Mit Zahlungseingang beginnt der Anbieter mit der Fertigung. |
 
-> [!IMPORTANT]
+> **Wichtig**
 > Der Vertrag kommt **erst durch das Auslösen der Zahlung** zustande. Das Angebot selbst ist noch keine Auftragsbestätigung.
 
 Das Angebot ist, sofern nicht anders angegeben, **14 Tage** ab Ausstellungsdatum gültig.
@@ -57,7 +63,7 @@ Das Angebot ist, sofern nicht anders angegeben, **14 Tage** ab Ausstellungsdatum
 
 Alle angegebenen Preise sind **Endpreise**.
 
-> [!NOTE]
+> **Hinweis**
 > Gemäß § 19 Abs. 1 UStG (Kleinunternehmerregelung) wird keine Umsatzsteuer ausgewiesen und berechnet.
 
 Die Zahlung erfolgt online über den Zahlungsdienstleister **Stripe**. Angeboten werden je nach Verfügbarkeit unter anderem:
@@ -109,7 +115,7 @@ Für **leicht fahrlässige** Pflichtverletzungen haftet der Anbieter nur bei Ver
 
 Bei Modellen von Drittplattformen versichert der Kunde insbesondere, dass die jeweilige Lizenz die Anfertigung des Drucks durch einen beauftragten Dritten und – soweit einschlägig – die entgeltliche Herstellung erlaubt.
 
-> [!WARNING]
+> **Achtung**
 > Der Anbieter ist berechtigt, Aufträge abzulehnen, bei denen Zweifel an der Zulässigkeit der Nutzung bestehen, etwa bei Modellen unter einer Lizenz mit dem Zusatz „nicht kommerziell" (NC).
 
 Der Kunde stellt den Anbieter von allen Ansprüchen Dritter frei, die aus einer Verletzung dieser Pflichten entstehen, einschließlich angemessener Kosten der Rechtsverteidigung.
@@ -117,6 +123,8 @@ Der Kunde stellt den Anbieter von allen Ansprüchen Dritter frei, die aus einer 
 ---
 
 ## § 9 Widerrufsrecht
+
+Dieser Paragraph gilt für **Waren**. Für digitale Inhalte gilt [§ 12](#-12-digitale-inhalte).
 
 ### Kein Widerrufsrecht bei Individualanfertigungen
 
@@ -128,7 +136,7 @@ Dies betrifft insbesondere alle 3D-Druck-Produkte, die nach den individuellen Vo
 - vom Kunden ausgewählte Modelle von Drittplattformen,
 - vom Kunden gewählte Parameter wie Material, Farbe, Größe oder Menge.
 
-> [!CAUTION]
+> **Bitte beachten**
 > Für diese Aufträge ist das Widerrufsrecht **vollständig ausgeschlossen**. Eine Rückgabe ist nach Fertigungsbeginn nicht möglich.
 
 ### Widerrufsbelehrung
@@ -143,7 +151,7 @@ Soweit im Einzelfall ausnahmsweise **keine** Individualanfertigung im obigen Sin
 >
 > Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die Waren in Besitz genommen haben bzw. hat.
 >
-> Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (Stephan Peter, HMNX Prints, Am Stadtgarten 9, 78647 Trossingen, E-Mail: hmnx.prints@gmail.com) mittels einer eindeutigen Erklärung (z. B. ein mit der Post versandter Brief oder eine E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
+> Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (Stephan Peter, HMNX.Prints, Am Stadtgarten 9, 78647 Trossingen, E-Mail: hmnx.prints@gmail.com) mittels einer eindeutigen Erklärung (z. B. ein mit der Post versandter Brief oder eine E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
 >
 > Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
 >
@@ -161,7 +169,7 @@ Soweit im Einzelfall ausnahmsweise **keine** Individualanfertigung im obigen Sin
 
 > *(Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück.)*
 >
-> An: Stephan Peter, HMNX Prints, Am Stadtgarten 9, 78647 Trossingen, E-Mail: hmnx.prints@gmail.com
+> An: Stephan Peter, HMNX.Prints, Am Stadtgarten 9, 78647 Trossingen, E-Mail: hmnx.prints@gmail.com
 >
 > Hiermit widerrufe(n) ich/wir (\*) den von mir/uns (\*) abgeschlossenen Vertrag über den Kauf der folgenden Waren (\*):
 >
@@ -200,7 +208,48 @@ Der Anbieter ist nicht bereit und nicht verpflichtet, an einem Streitbeilegungsv
 
 ---
 
-## § 12 Schlussbestimmungen
+## § 12 Digitale Inhalte
+
+Dieser Paragraph gilt für digitale Inhalte im Sinne des § 327 Abs. 2 BGB, also Daten, die in digitaler Form erstellt und bereitgestellt werden – etwa PDF-Anleitungen, Druckvorlagen oder Modelldateien, die nicht auf einem körperlichen Datenträger geliefert werden. Die übrigen Bestimmungen dieser AGB gelten ergänzend, soweit sie nicht die Lieferung körperlicher Waren betreffen.
+
+### Vertragsschluss und Bereitstellung
+
+Der Vertragsschluss erfolgt wie in [§ 2](#-2-vertragsschluss) beschrieben durch das Auslösen der Zahlung.
+
+Die Bereitstellung erfolgt nach Zahlungseingang per E-Mail oder über einen Download-Link. Ein Versand körperlicher Datenträger findet nicht statt; Versandkosten entfallen entsprechend. Systemanforderungen zum Öffnen der Datei, etwa ein PDF-Reader, werden im Angebot angegeben, soweit sie über marktübliche Standardsoftware hinausgehen.
+
+### Nutzungsrechte
+
+Der Kunde erhält ein einfaches, zeitlich unbefristetes Recht zur Nutzung des digitalen Inhalts für eigene, private Zwecke. Er darf den Inhalt zu diesem Zweck speichern und ausdrucken.
+
+Nicht gestattet sind ohne vorherige schriftliche Zustimmung des Anbieters:
+
+- die Weitergabe, Vervielfältigung oder öffentliche Zugänglichmachung an Dritte, insbesondere das Hochladen auf Plattformen oder Tauschbörsen,
+- der Weiterverkauf oder die entgeltliche Überlassung,
+- die gewerbliche Nutzung, einschließlich der Serienfertigung zum Verkauf auf Grundlage einer erworbenen Vorlage,
+- die Bearbeitung und Verbreitung bearbeiteter Fassungen.
+
+Alle Urheber- und Nutzungsrechte am digitalen Inhalt verbleiben beim Anbieter.
+
+### Widerrufsrecht bei digitalen Inhalten
+
+Bei Verträgen über digitale Inhalte steht dem Verbraucher grundsätzlich ein Widerrufsrecht von **vierzehn Tagen** ab Vertragsschluss zu. Es gilt die Widerrufsbelehrung in [§ 9](#widerrufsbelehrung) entsprechend, mit der Abweichung, dass die Frist ab dem Tag des Vertragsschlusses läuft und keine Rücksendung von Waren erfolgt.
+
+**Vorzeitiges Erlöschen**
+
+Das Widerrufsrecht erlischt gemäß **§ 356 Abs. 5 BGB** vorzeitig, wenn
+
+1. der Kunde ausdrücklich zugestimmt hat, dass der Anbieter vor Ablauf der Widerrufsfrist mit der Ausführung des Vertrags beginnt,
+2. der Kunde bestätigt hat, dass er dadurch sein Widerrufsrecht verliert,
+3. der Anbieter danach mit der Bereitstellung begonnen hat und
+4. der Anbieter dem Kunden eine Bestätigung des Vertrags einschließlich dieser Zustimmung in Textform zur Verfügung gestellt hat.
+
+> **Bitte beachten**
+> Der Anbieter holt Zustimmung und Bestätigung vor der Bereitstellung ein. Erteilt der Kunde sie nicht, erfolgt die Bereitstellung erst nach Ablauf der Widerrufsfrist.
+
+---
+
+## § 13 Schlussbestimmungen
 
 Es gilt das Recht der Bundesrepublik Deutschland. Sollte eine Bestimmung dieser AGB unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
 
