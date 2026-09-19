@@ -1,61 +1,209 @@
-# Impressum
+# AGB und Widerrufsbedingungen
 
-Stephan Peter<br>
-Am Stadtgarten 9<br>
-78647 Trossingen
+**HMNX Prints** · Stephan Peter · Am Stadtgarten 9 · 78647 Trossingen
 
-E-Mail: hmnx.prints@gmail.com
+> Das Impressum finden Sie in der separaten Datei [impressum.md](impressum.md).
+> Die Datenschutzhinweise finden Sie in [datenschutz.md](datenschutz.md).
 
 ---
 
-# AGB und Widerrufsbedingungen – HMNX.Prints
+## Inhalt
+
+- [§ 1 Geltungsbereich](#-1-geltungsbereich)
+- [§ 2 Vertragsschluss](#-2-vertragsschluss)
+- [§ 3 Preise und Zahlung](#-3-preise-und-zahlung)
+- [§ 4 Lieferung und Versand](#-4-lieferung-und-versand)
+- [§ 5 Eigentumsvorbehalt](#-5-eigentumsvorbehalt)
+- [§ 6 Gewährleistung](#-6-gewährleistung)
+- [§ 7 Haftung](#-7-haftung)
+- [§ 8 Kundeneigene Dateien, Modelle und Urheberrecht](#-8-kundeneigene-dateien-modelle-und-urheberrecht)
+- [§ 9 Widerrufsrecht](#-9-widerrufsrecht)
+  - [Kein Widerrufsrecht bei Individualanfertigungen](#kein-widerrufsrecht-bei-individualanfertigungen)
+  - [Widerrufsbelehrung](#widerrufsbelehrung)
+  - [Muster-Widerrufsformular](#muster-widerrufsformular)
+- [§ 10 Stornierung nach Fertigungsbeginn](#-10-stornierung-nach-fertigungsbeginn)
+- [§ 11 Streitbeilegung](#-11-streitbeilegung)
+- [§ 12 Schlussbestimmungen](#-12-schlussbestimmungen)
+
+---
 
 ## § 1 Geltungsbereich
 
-Diese AGB gelten für alle Bestellungen von 3D-Druck-Produkten bei Stephan Peter, HMNX Prints, Am Stadtgarten 9, 78647 Trossingen (nachfolgend „Anbieter") durch Verbraucher (§ 13 BGB).
+Diese AGB gelten für alle Bestellungen von 3D-Druck-Produkten und 3D-Druck-Dienstleistungen bei Stephan Peter, HMNX Prints, Am Stadtgarten 9, 78647 Trossingen (nachfolgend **„Anbieter"**) durch Verbraucher (§ 13 BGB) sowie durch Unternehmer (§ 14 BGB).
+
+Der Anbieter betreibt das 3D-Druck-Angebot als Kleinunternehmer im Sinne des § 19 UStG.
+
+---
 
 ## § 2 Vertragsschluss
 
-Der Kunde fragt einen Auftrag beim Anbieter an (z. B. per E-Mail oder Chat). Der Anbieter erstellt daraufhin ein individuelles Angebot in Form einer Auftragsbestätigung mit Beschreibung, Preis und Zahlungsmöglichkeit. Der Vertrag kommt zustande, sobald der Kunde die Zahlung über den bereitgestellten Zahlungslink auslöst.
+Der Ablauf einer Bestellung ist wie folgt:
+
+| Schritt | Vorgang |
+|---:|---|
+| **1** | Der Kunde fragt einen Auftrag an (z. B. per E-Mail oder Chat) und übermittelt die gewünschten Vorgaben: eigene 3D-Modelle bzw. CAD-Dateien, Links zu Modellen, Angaben zu Material, Farbe und Menge. |
+| **2** | Der Anbieter erstellt ein **individuelles Angebot** mit Beschreibung, Preis, Zahlungsmöglichkeit und dem Termin, bis zu dem geliefert wird. |
+| **3** | Der Kunde nimmt das Angebot an, indem er die Zahlung über den bereitgestellten Zahlungslink bzw. QR-Code auslöst. |
+| **4** | Mit Zahlungseingang beginnt der Anbieter mit der Fertigung. |
+
+> [!IMPORTANT]
+> Der Vertrag kommt **erst durch das Auslösen der Zahlung** zustande. Das Angebot selbst ist noch keine Auftragsbestätigung.
+
+Das Angebot ist, sofern nicht anders angegeben, **14 Tage** ab Ausstellungsdatum gültig.
+
+---
 
 ## § 3 Preise und Zahlung
 
-Alle angegebenen Preise sind Endpreise. Gemäß § 19 Abs. 1 UStG wird keine Umsatzsteuer ausgewiesen und berechnet. Die Zahlung erfolgt online über den Zahlungsdienstleister Stripe. Angeboten werden je nach Verfügbarkeit unter anderem Kreditkarte, PayPal, Klarna, Apple Pay, Google Pay, Amazon Pay, Link sowie SEPA-Lastschrift.
+Alle angegebenen Preise sind **Endpreise**.
+
+> [!NOTE]
+> Gemäß § 19 Abs. 1 UStG (Kleinunternehmerregelung) wird keine Umsatzsteuer ausgewiesen und berechnet.
+
+Die Zahlung erfolgt online über den Zahlungsdienstleister **Stripe**. Angeboten werden je nach Verfügbarkeit unter anderem:
+
+- Kreditkarte
+- PayPal
+- Klarna
+- Apple Pay / Google Pay / Amazon Pay
+- Link
+- SEPA-Lastschrift
+
+---
 
 ## § 4 Lieferung und Versand
 
-Der Versand erfolgt je nach Größe und Gewicht des bestellten Artikels als Brief, Versandtasche oder Paket, überwiegend über DHL. Alternativ ist eine Selbstabholung möglich. Die Bearbeitungszeit (Fertigung) variiert je nach Auftrag und wird individuell mitgeteilt. Die Versanddauer nach Versendung beträgt in der Regel ca. 3–5 Werktage, abhängig von DHL.
+Der Versand erfolgt je nach Größe und Gewicht des bestellten Artikels als Brief, Versandtasche oder Paket, überwiegend über **DHL**. Alternativ ist eine Selbstabholung nach Absprache möglich.
+
+| | |
+|---|---|
+| **Fertigungszeit** | Wird im jeweiligen Angebot konkret angegeben, gerechnet ab Zahlungseingang. |
+| **Versanddauer** | In der Regel ca. 3–5 Werktage nach Übergabe an DHL. |
+| **Maßgeblich** | Der im Angebot genannte Liefertermin. |
+
+---
 
 ## § 5 Eigentumsvorbehalt
 
 Die gelieferte Ware bleibt bis zur vollständigen Bezahlung Eigentum des Anbieters.
 
+---
+
 ## § 6 Gewährleistung
 
 Es gelten die gesetzlichen Gewährleistungsrechte.
 
+---
+
 ## § 7 Haftung
 
-Der Anbieter haftet unbeschränkt für Vorsatz und grobe Fahrlässigkeit sowie bei Verletzung von Leben, Körper oder Gesundheit. Für leicht fahrlässige Pflichtverletzungen haftet der Anbieter nur bei Verletzung wesentlicher Vertragspflichten (Kardinalpflichten), begrenzt auf den vorhersehbaren, vertragstypischen Schaden.
+Der Anbieter haftet **unbeschränkt** für Vorsatz und grobe Fahrlässigkeit sowie bei Verletzung von Leben, Körper oder Gesundheit.
 
-## § 8 Kundeneigene Dateien / Urheberrecht
+Für **leicht fahrlässige** Pflichtverletzungen haftet der Anbieter nur bei Verletzung wesentlicher Vertragspflichten (Kardinalpflichten), begrenzt auf den vorhersehbaren, vertragstypischen Schaden.
 
-Übermittelt der Kunde eigene 3D-Modelle (z. B. STL-Dateien) zum Druck, versichert er, dass er zur Nutzung dieser Daten berechtigt ist und keine Rechte Dritter (insbesondere Urheberrechte) verletzt werden. Der Kunde stellt den Anbieter von Ansprüchen Dritter frei, die aus einer Verletzung dieser Pflicht entstehen.
+---
+
+## § 8 Kundeneigene Dateien, Modelle und Urheberrecht
+
+Übermittelt der Kunde eigene 3D-Modelle (z. B. STL- oder CAD-Dateien) oder Links zu Modellen von Drittplattformen (z. B. Thingiverse, MakerWorld, Printables) zum Druck, versichert er, dass er zur Nutzung dieser Daten für den beauftragten Druck berechtigt ist und keine Rechte Dritter – insbesondere Urheber-, Marken- oder Patentrechte – verletzt werden.
+
+Bei Modellen von Drittplattformen versichert der Kunde insbesondere, dass die jeweilige Lizenz die Anfertigung des Drucks durch einen beauftragten Dritten und – soweit einschlägig – die entgeltliche Herstellung erlaubt.
+
+> [!WARNING]
+> Der Anbieter ist berechtigt, Aufträge abzulehnen, bei denen Zweifel an der Zulässigkeit der Nutzung bestehen, etwa bei Modellen unter einer Lizenz mit dem Zusatz „nicht kommerziell" (NC).
+
+Der Kunde stellt den Anbieter von allen Ansprüchen Dritter frei, die aus einer Verletzung dieser Pflichten entstehen, einschließlich angemessener Kosten der Rechtsverteidigung.
+
+---
 
 ## § 9 Widerrufsrecht
 
-Da es sich bei den bestellten Produkten um Einzelanfertigungen im 3D-Druck nach Kundenwunsch handelt, die erst nach Bestellung gefertigt werden, ist das Widerrufsrecht gemäß § 312g Abs. 2 Nr. 1 BGB vollständig ausgeschlossen.
+### Kein Widerrufsrecht bei Individualanfertigungen
+
+Ein Widerrufsrecht besteht gemäß **§ 312g Abs. 2 Nr. 1 BGB** nicht bei Verträgen zur Lieferung von Waren, die nicht vorgefertigt sind und für deren Herstellung eine individuelle Auswahl oder Bestimmung durch den Verbraucher maßgeblich ist oder die eindeutig auf die persönlichen Bedürfnisse des Verbrauchers zugeschnitten sind.
+
+Dies betrifft insbesondere alle 3D-Druck-Produkte, die nach den individuellen Vorgaben des Kunden erst nach Bestellung gefertigt werden, namentlich:
+
+- eigene STL- oder CAD-Dateien des Kunden,
+- vom Kunden ausgewählte Modelle von Drittplattformen,
+- vom Kunden gewählte Parameter wie Material, Farbe, Größe oder Menge.
+
+> [!CAUTION]
+> Für diese Aufträge ist das Widerrufsrecht **vollständig ausgeschlossen**. Eine Rückgabe ist nach Fertigungsbeginn nicht möglich.
+
+### Widerrufsbelehrung
+
+Soweit im Einzelfall ausnahmsweise **keine** Individualanfertigung im obigen Sinne vorliegt, etwa beim Verkauf eines bereits vorgefertigten Artikels aus dem Bestand, steht Ihnen als Verbraucher ein Widerrufsrecht zu. Der nachfolgende Text entspricht wörtlich dem gesetzlichen Muster nach Anlage 1 zu Art. 246a EGBGB.
+
+> ### Widerrufsbelehrung
+>
+> **Widerrufsrecht**
+>
+> Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen.
+>
+> Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die Waren in Besitz genommen haben bzw. hat.
+>
+> Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (Stephan Peter, HMNX Prints, Am Stadtgarten 9, 78647 Trossingen, E-Mail: hmnx.prints@gmail.com) mittels einer eindeutigen Erklärung (z. B. ein mit der Post versandter Brief oder eine E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
+>
+> Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
+>
+> **Folgen des Widerrufs**
+>
+> Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet. Wir können die Rückzahlung verweigern, bis wir die Waren wieder zurückerhalten haben oder bis Sie den Nachweis erbracht haben, dass Sie die Waren zurückgesandt haben, je nachdem, welches der frühere Zeitpunkt ist.
+>
+> Sie haben die Waren unverzüglich und in jedem Fall spätestens binnen vierzehn Tagen ab dem Tag, an dem Sie uns über den Widerruf dieses Vertrags unterrichten, an uns zurückzusenden oder zu übergeben. Die Frist ist gewahrt, wenn Sie die Waren vor Ablauf der Frist von vierzehn Tagen absenden.
+>
+> Sie tragen die unmittelbaren Kosten der Rücksendung der Waren.
+>
+> Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser Wertverlust auf einen zur Prüfung der Beschaffenheit, Eigenschaften und Funktionsweise der Waren nicht notwendigen Umgang mit ihnen zurückzuführen ist.
+
+### Muster-Widerrufsformular
+
+> *(Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück.)*
+>
+> An: Stephan Peter, HMNX Prints, Am Stadtgarten 9, 78647 Trossingen, E-Mail: hmnx.prints@gmail.com
+>
+> Hiermit widerrufe(n) ich/wir (\*) den von mir/uns (\*) abgeschlossenen Vertrag über den Kauf der folgenden Waren (\*):
+>
+> ______________________________________________
+>
+> Bestellt am (\*) / erhalten am (\*): ______________
+>
+> Name des/der Verbraucher(s): ______________
+>
+> Anschrift des/der Verbraucher(s): ______________
+>
+> ______________________________________________
+>
+> Unterschrift des/der Verbraucher(s) *(nur bei Mitteilung auf Papier)*: ______________
+>
+> Datum: ______________
+>
+> (\*) Unzutreffendes streichen.
+
+---
 
 ## § 10 Stornierung nach Fertigungsbeginn
 
-Eine Stornierung ist bis zum Beginn der Fertigung kostenfrei möglich. Wurde mit der Fertigung bereits begonnen, werden die bis dahin entstandenen Material- und Fertigungskosten in Rechnung gestellt bzw. nicht erstattet. Der übrige, noch nicht verbrauchte Betrag wird zurückerstattet.
+| Zeitpunkt | Folge |
+|---|---|
+| **Vor Fertigungsbeginn** | Stornierung kostenfrei möglich. |
+| **Nach Fertigungsbeginn** | Die bis dahin entstandenen Material- und Fertigungskosten werden in Rechnung gestellt bzw. nicht erstattet. Der übrige, noch nicht verbrauchte Betrag wird zurückerstattet. |
+
+Diese Regelung betrifft die **vertragliche** Stornierung und lässt das gesetzliche Widerrufsrecht nach [§ 9](#-9-widerrufsrecht), soweit es besteht, unberührt.
+
+---
 
 ## § 11 Streitbeilegung
 
 Der Anbieter ist nicht bereit und nicht verpflichtet, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
+---
+
 ## § 12 Schlussbestimmungen
 
 Es gilt das Recht der Bundesrepublik Deutschland. Sollte eine Bestimmung dieser AGB unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
 
-*Stand: 09/2026*
+---
+
+<sub>Stand: 09/2026</sub>
