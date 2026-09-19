@@ -1,14 +1,14 @@
 # Impressum
 
-Stephan Peter
-Am Stadtgarten 9
+Stephan Peter<br>
+Am Stadtgarten 9<br>
 78647 Trossingen
 
 E-Mail: hmnx.prints@gmail.com
 
 ---
 
-# AGB und Widerrufsbedingungen – HMNX Prints
+# AGB und Widerrufsbedingungen – HMNX.Prints
 
 ## § 1 Geltungsbereich
 
@@ -54,4 +54,4 @@ Der Anbieter ist nicht bereit und nicht verpflichtet, an einem Streitbeilegungsv
 
 Es gilt das Recht der Bundesrepublik Deutschland. Sollte eine Bestimmung dieser AGB unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
 
-*Stand: 10/2026*
+*Stand: 09/2026*
