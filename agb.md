@@ -84,7 +84,7 @@ Der Versand erfolgt je nach Größe und Gewicht des bestellten Artikels als Brie
 | | |
 |---|---|
 | **Fertigungszeit** | Wird im jeweiligen Angebot konkret angegeben, gerechnet ab Zahlungseingang. |
-| **Versanddauer** | In der Regel ca. 3–5 Werktage nach Übergabe an DHL. |
+| **Versanddauer** | In der Regel ca. 3–5 Werktage nach Übergabe an DHL oder Deutsche Post |
 | **Maßgeblich** | Der im Angebot genannte Liefertermin. |
 
 ---
