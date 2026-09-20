@@ -46,4 +46,3 @@ Wir sind **nicht bereit und nicht verpflichtet**, an Streitbeilegungsverfahren v
 ---
 
 <sub>Stand: 09/2026</sub>
-
