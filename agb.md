@@ -2,8 +2,8 @@
 
 **HMNX.Prints** · Stephan Peter · Am Stadtgarten 9 · 78647 Trossingen
 
-> Das Impressum finden Sie in der separaten Datei [impressum.md](impressum.md).
-> Die Datenschutzhinweise finden Sie in [datenschutz.md](datenschutz.md).
+> Das Impressum und die Datenschutzhinweise finden Sie als separate Dokumente unter
+> <https://github.com/HMNXPrints/hmnx-prints-legal>.
 
 ---
 
@@ -173,32 +173,51 @@ Soweit im Einzelfall ausnahmsweise **keine** Individualanfertigung im obigen Sin
 >
 > Hiermit widerrufe(n) ich/wir (\*) den von mir/uns (\*) abgeschlossenen Vertrag über den Kauf der folgenden Waren (\*):
 >
-> ______________________________________________
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 >
-> Bestellt am (\*) / erhalten am (\*): ______________
+> Bestellt am (\*) / erhalten am (\*): \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 >
-> Name des/der Verbraucher(s): ______________
+> Name des/der Verbraucher(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 >
-> Anschrift des/der Verbraucher(s): ______________
+> Anschrift des/der Verbraucher(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 >
-> ______________________________________________
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 >
-> Unterschrift des/der Verbraucher(s) *(nur bei Mitteilung auf Papier)*: ______________
+> Unterschrift des/der Verbraucher(s) *(nur bei Mitteilung auf Papier)*: \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 >
-> Datum: ______________
+> Datum: \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 >
 > (\*) Unzutreffendes streichen.
 
 ---
 
-## § 10 Stornierung nach Fertigungsbeginn
+## § 10 Stornierung
 
-| Zeitpunkt | Folge |
+Der Kunde kann einen Auftrag über eine individuell angefertigte Ware bis zur Fertigstellung jederzeit stornieren. Die Stornierung ist dem Anbieter mitzuteilen; die Textform, etwa per E-Mail, genügt.
+
+| Zeitpunkt der Stornierung | Stornoentgelt |
 |---|---|
-| **Vor Fertigungsbeginn** | Stornierung kostenfrei möglich. |
-| **Nach Fertigungsbeginn** | Die bis dahin entstandenen Material- und Fertigungskosten werden in Rechnung gestellt bzw. nicht erstattet. Der übrige, noch nicht verbrauchte Betrag wird zurückerstattet. |
+| **Vor Fertigungsbeginn** | kein Entgelt, vollständige Erstattung |
+| **Nach Fertigungsbeginn, aber vor Fertigstellung** | pauschal 50 % des Auftragswertes |
+| **Nach Fertigstellung** | 100 % der vereinbarten Vergütung |
 
-Diese Regelung betrifft die **vertragliche** Stornierung und lässt das gesetzliche Widerrufsrecht nach [§ 9](#-9-widerrufsrecht), soweit es besteht, unberührt.
+Versandkosten fallen nicht an, solange die Ware nicht versendet wurde; bereits gezahlte Versandkosten werden in jedem Fall erstattet.
+
+Als **Fertigungsbeginn** gilt der Start des Druckvorgangs, das Anbrechen von Material für diesen Auftrag oder der Beginn der Nacharbeit. Die Angebotserstellung, die Dateiprüfung und die Fertigungsvorbereitung gelten noch nicht als Fertigungsbeginn.
+
+Als **Fertigstellung** gilt der Zeitpunkt, zu dem die Ware vollständig gefertigt und nachgearbeitet ist und zum Versand bereitsteht.
+
+Das Stornoentgelt berücksichtigt, dass eine individuell angefertigte Ware nicht anderweitig verwertet werden kann und die eingesetzten Material- und Fertigungsaufwendungen daher nicht erspart werden.
+
+> **Wichtig**
+> Dem Kunden bleibt der Nachweis vorbehalten, dass dem Anbieter kein oder ein geringerer Aufwand entstanden ist. In diesem Fall wird das Stornoentgelt entsprechend herabgesetzt oder entfällt.
+
+Bei einer Stornierung nach Fertigstellung wird die Ware nur gegen Zahlung der vollständigen vereinbarten Vergütung herausgegeben oder versendet. Bei einer Stornierung vor Fertigstellung kann der Kunde das bereits gefertigte Teilstück nur erhalten, wenn er mindestens das hierfür geschuldete Stornoentgelt zahlt; Versandkosten trägt der Kunde.
+
+Bei Aufträgen über nicht individualisierte Waren und über digitale Inhalte besteht kein vertragliches Stornierungsrecht. Für diese gilt allein das gesetzliche Widerrufsrecht nach [§ 9](#-9-widerrufsrecht) bzw. [§ 12](#-12-digitale-inhalte).
+
+> **Hinweis**
+> Die Stornierung ist etwas anderes als der Widerruf. Diese Regelung betrifft ausschließlich die **vertragliche** Stornierung und lässt das gesetzliche Widerrufsrecht nach [§ 9](#-9-widerrufsrecht), soweit es besteht, unberührt. Innerhalb einer laufenden Widerrufsfrist fällt kein Stornoentgelt nach diesem Paragraphen an.
 
 ---
 
