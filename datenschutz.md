@@ -66,7 +66,7 @@ Stripe Payments Europe, Ltd., Irland
 
 Bei der Zahlung werden Sie zu unserem Zahlungsdienstleister Stripe weitergeleitet. Ihre Zahlungsdaten, etwa Kartendaten, geben Sie dort direkt bei Stripe ein; sie werden ausschließlich von Stripe verarbeitet.
 
-> **Hinweis**
+> **Hinweis:**
 > Wir selbst erhalten und speichern **keine** Zahlungsdaten. An Stripe übermittelt werden von uns lediglich Ihre E-Mail-Adresse zur Vorausfüllung des Zahlungsformulars sowie der Zahlbetrag und die Auftragsbezeichnung.
 
 Im Rahmen der Konzernstruktur von Stripe kann es zu einer Datenübermittlung in die USA kommen. Diese ist durch die Standardvertragsklauseln der EU-Kommission gemäß Art. 46 Abs. 2 lit. c DSGVO sowie den Angemessenheitsbeschluss zum EU-US Data Privacy Framework gemäß Art. 45 DSGVO abgesichert.
@@ -99,7 +99,7 @@ Weitere Informationen: <https://all-inkl.com/datenschutzinformationen/>
 
 ---
 
-> **Wichtig**
+> **Wichtig:**
 > Eine Weitergabe an sonstige Dritte erfolgt nicht, außer wir sind gesetzlich dazu verpflichtet.
 
 ---

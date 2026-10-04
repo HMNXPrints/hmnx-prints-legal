@@ -25,7 +25,7 @@ Deutschland
 | **Steuernummer** | `[Steuernummer eintragen]` |
 | **USt-IdNr.** | Nicht vorhanden |
 
-> **Hinweis**
+> **Hinweis:**
 > Gemäß **§ 19 Abs. 1 UStG** (Kleinunternehmerregelung) wird keine Umsatzsteuer berechnet und ausgewiesen. Eine Umsatzsteuer-Identifikationsnummer liegt daher nicht vor.
 
 ## Verantwortlich für den Inhalt

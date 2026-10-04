@@ -2,7 +2,7 @@
 
 Willkommen im öffentlichen Repository von **HMNX.Prints**. Hier findest du die rechtlichen Informationen zu Angeboten, Bestellungen und digitalen Inhalten.
 
-> **Hinweis**
+> **Hinweis:**
 > Maßgeblich ist jeweils die Fassung der Dokumente, die dir im Zusammenhang mit deinem Angebot, deiner Bestellung oder deinem Kauf in Textform übermittelt wurde.
 
 ---
