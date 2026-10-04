@@ -6,10 +6,10 @@
 
 ## Anbieter
 
-**Stephan Peter**
-HMNX.Prints
-Am Stadtgarten 9
-78647 Trossingen
+**Stephan Peter**  
+HMNX.Prints  
+Am Stadtgarten 9  
+78647 Trossingen  
 Deutschland
 
 ## Kontakt

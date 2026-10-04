@@ -14,6 +14,7 @@ Willkommen im öffentlichen Repository von **HMNX.Prints**. Hier findest du die 
 | **Allgemeine Geschäftsbedingungen** | Geltungsbereich, Vertragsschluss, Zahlung, Lieferung, Gewährleistung, Stornierung, Widerruf und digitale Inhalte | [AGB öffnen](agb.md) |
 | **Datenschutzhinweise** | Informationen zur Verarbeitung personenbezogener Daten | [Datenschutzhinweise öffnen](datenschutz.md) |
 | **Impressum** | Angaben zum Anbieter und Kontaktmöglichkeiten | [Impressum öffnen](impressum.md) |
+| **Firmendaten** | Name, Anschrift und E-Mail in maschinenlesbarer Form – daraus übernimmt die Webseite ihre Kontaktangaben | [firma.json](firma.json) |
 
 ---
 
