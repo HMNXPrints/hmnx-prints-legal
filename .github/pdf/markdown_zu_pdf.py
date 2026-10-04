@@ -175,7 +175,9 @@ def markdown_to_story(markdown: str, page_breaks: bool):
             story.append(Paragraph(f"{number}. {inline(text)}", style_set["List"]))
         elif line.strip():
             story.append(Paragraph(inline(line), style_set["Body"]))
-        else:
+        elif not (story and getattr(getattr(story[-1], "style", None), "keepWithNext", 0)):
+            # Leerzeile - nicht direkt nach einer Ueberschrift, sonst haelt
+            # keepWithNext die Ueberschrift nur am Abstand statt am Text fest.
             story.append(Spacer(1, 2.5))
         index += 1
 

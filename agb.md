@@ -7,7 +7,7 @@ Am Stadtgarten 9
 Deutschland  
 E-Mail: hmnx.prints@gmail.com
 
-Stand: 09/2026
+Stand: 10/2026
 
 ---
 
@@ -54,10 +54,10 @@ Stand: 09/2026
 
 1. Der Kunde fragt einen Auftrag an, beispielsweise per E-Mail oder Chat, und übermittelt die gewünschten Vorgaben. Hierzu können insbesondere eigene 3D-Modelle oder CAD-Dateien, Links zu Modellen sowie Angaben zu Material, Farbe, Größe und Menge gehören.
 2. Der Anbieter erstellt ein individuelles Angebot mit Beschreibung, Preis, Zahlungsmöglichkeit und dem Termin, bis zu dem geliefert wird.
-3. Der Kunde nimmt das Angebot an, indem er die Zahlung über den bereitgestellten Zahlungslink beziehungsweise QR-Code auslöst.
-4. Mit Zahlungseingang beginnt der Anbieter mit der Fertigung oder, bei digitalen Inhalten, mit der Bereitstellung nach Maßgabe von § 12.
+3. Der Kunde nimmt das Angebot an, indem er die Zahlung auf einem der im Angebot genannten Zahlungswege auslöst, insbesondere über den bereitgestellten Zahlungslink beziehungsweise QR-Code, per Überweisung oder per PayPal. Ist im Angebot Barzahlung bei Abholung vorgesehen, nimmt der Kunde das Angebot durch eine Bestätigung in Textform an, beispielsweise per E-Mail oder Nachricht.
+4. Mit Zahlungseingang beziehungsweise, bei Barzahlung bei Abholung, mit Eingang der Bestätigung beginnt der Anbieter mit der Fertigung oder, bei digitalen Inhalten, mit der Bereitstellung nach Maßgabe von § 12.
 
-(2) Der Vertrag kommt erst durch das Auslösen der Zahlung zustande. Das Angebot selbst ist noch keine Auftragsbestätigung.
+(2) Der Vertrag kommt erst durch das Auslösen der Zahlung zustande, bei Barzahlung bei Abholung durch die Bestätigung in Textform. Das Angebot selbst ist noch keine Auftragsbestätigung.
 
 (3) Das Angebot ist, sofern nicht anders angegeben, 14 Tage ab Ausstellungsdatum gültig.
 
@@ -67,13 +67,15 @@ Stand: 09/2026
 
 (2) Gemäß § 19 Abs. 1 UStG wird keine Umsatzsteuer ausgewiesen und berechnet.
 
-(3) Die Zahlung erfolgt online über den Zahlungsdienstleister Stripe. Angeboten werden je nach Verfügbarkeit insbesondere Kreditkarte, PayPal, Klarna, Apple Pay, Google Pay, Amazon Pay, Link oder SEPA-Lastschrift.
+(3) Die Zahlung erfolgt auf dem im Angebot genannten Weg: online über den Zahlungsdienstleister Stripe (je nach Verfügbarkeit insbesondere Kreditkarte, PayPal, Klarna, Apple Pay, Google Pay, Amazon Pay, Link oder SEPA-Lastschrift), per Überweisung auf das im Angebot angegebene Konto oder per PayPal. Bei Überweisung und PayPal ist der im Angebot genannte Verwendungszweck anzugeben.
+
+(4) Ist Barzahlung bei Abholung vereinbart, ist der vollständige Betrag bei der Abholung der Ware fällig.
 
 ### § 4 Lieferung und Versand
 
 (1) Der Versand körperlicher Waren erfolgt je nach Größe und Gewicht als Brief, Versandtasche oder Paket, überwiegend über DHL. Alternativ ist eine Selbstabholung nach Absprache möglich.
 
-(2) Die Fertigungszeit wird im jeweiligen Angebot konkret angegeben und ab Zahlungseingang gerechnet.
+(2) Die Fertigungszeit wird im jeweiligen Angebot konkret angegeben und ab Zahlungseingang gerechnet, bei Barzahlung bei Abholung ab Eingang der Bestätigung.
 
 (3) Die Versanddauer beträgt in der Regel etwa 3 bis 5 Werktage nach Übergabe an DHL. Maßgeblich ist der im Angebot genannte Liefertermin.
 
@@ -270,7 +272,7 @@ Das Widerrufsrecht erlischt bei einem Vertrag über die Bereitstellung von nicht
 2. Ihre Kenntnis davon bestätigt haben, dass Sie durch Ihre Zustimmung mit Beginn der Ausführung des Vertrags Ihr Widerrufsrecht verlieren, und
 3. wir Ihnen eine Bestätigung des Vertrags gemäß § 312f BGB einschließlich dieser Zustimmung zur Verfügung gestellt haben.
 
-Diese Zustimmung und Bestätigung erteilen Sie im Rahmen des Bezahlvorgangs. Der Zeitpunkt ist in der zugehörigen Rechnungs- und Bereitstellungs-E-Mail dokumentiert.
+Diese Zustimmung und Bestätigung erteilen Sie im Rahmen des Bezahlvorgangs oder vor der Zahlung in Textform, beispielsweise per E-Mail. Der Zeitpunkt ist in der Bereitstellungs-E-Mail dokumentiert.
 
 ---
 
