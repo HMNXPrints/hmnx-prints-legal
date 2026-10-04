@@ -83,6 +83,8 @@ def inline(value: str) -> str:
     value = re.sub(r"&lt;br\s*/?&gt;", " ", value)
     value = re.sub(r"&lt;/?(sub|sup|small|span|div|p)\b[^&]*&gt;", "", value)
     value = re.sub(r"\[([^\]]+)\]\(([^)\s]+)\)", _link, value)
+    # Markdown-Autolinks <https://...> als klickbarer Link
+    value = re.sub(r"&lt;(https?://[^&\s]+)&gt;", r'<a href="\1" color="#1d4ed8">\1</a>', value)
     value = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", value)
     value = re.sub(r"`(.+?)`", r'<font name="Courier">\1</font>', value)
     return value
@@ -150,7 +152,10 @@ def markdown_to_story(markdown: str, page_breaks: bool):
             while index < len(lines) and lines[index].startswith("|"):
                 rows.append([cell.strip() for cell in lines[index].strip().strip("|").split("|")])
                 index += 1
-            story.extend([Spacer(1, 3), make_table(headers, rows, style_set), Spacer(1, 6)])
+            # Direkt nach einer Ueberschrift ohne Abstand davor - sonst bleibt die
+            # Ueberschrift allein am Seitenende stehen (keepWithNext greift nur aufs naechste Element).
+            after_heading = bool(story) and getattr(getattr(story[-1], "style", None), "keepWithNext", 0)
+            story.extend(([] if after_heading else [Spacer(1, 3)]) + [make_table(headers, rows, style_set), Spacer(1, 6)])
             continue
 
         if line.startswith("# "):

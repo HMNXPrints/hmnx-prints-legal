@@ -1,58 +1,61 @@
 # Datenschutzhinweise
 
-**HMNX.Prints** · Informationen nach Art. 13 DSGVO
+**HMNX.Prints**  
+Informationen nach Art. 13 DSGVO
 
+Stand: 10/2026
 
 ---
 
-## Inhalt
+## Inhaltsverzeichnis
 
-- [1. Verantwortlicher](#1-verantwortlicher)
-- [2. Welche Daten wir verarbeiten](#2-welche-daten-wir-verarbeiten)
-- [3. Rechtsgrundlage](#3-rechtsgrundlage)
-- [4. Eingesetzte Dienstleister](#4-eingesetzte-dienstleister)
-- [5. Besuch der Webseite](#5-besuch-der-webseite)
-- [6. Speicherdauer](#6-speicherdauer)
-- [7. Bereitstellung der Daten](#7-bereitstellung-der-daten)
-- [8. Keine automatisierte Entscheidungsfindung](#8-keine-automatisierte-entscheidungsfindung)
-- [9. Ihre Rechte](#9-ihre-rechte)
+1. Verantwortlicher  
+2. Welche Daten wir verarbeiten  
+3. Rechtsgrundlagen  
+4. Eingesetzte Dienstleister  
+5. Besuch der Webseite  
+6. Speicherdauer  
+7. Bereitstellung der Daten  
+8. Keine automatisierte Entscheidungsfindung  
+9. Ihre Rechte  
 
 ---
 
 ## 1. Verantwortlicher
 
-**Stephan Peter**  
+Stephan Peter  
 HMNX.Prints  
 Am Stadtgarten 9  
 78647 Trossingen  
-Deutschland
-
+Deutschland  
 E-Mail: hmnx.prints@gmail.com
 
 ---
 
 ## 2. Welche Daten wir verarbeiten
 
-Bei einer Anfrage und Bestellung verarbeiten wir:
+Bei einer Anfrage und Bestellung verarbeiten wir insbesondere folgende Daten:
 
 | Datenkategorie | Beispiele |
 |---|---|
-| **Kontaktdaten** | Name, E-Mail-Adresse |
-| **Lieferdaten** | Lieferadresse |
-| **Auftragsdaten** | Übermittelte 3D-Modelle und CAD-Dateien, Links zu Modellen, Angaben zu Material, Farbe und Menge |
-| **Technische Zugriffsdaten** | Beim Aufruf der Webseite: IP-Adresse, Datum und Uhrzeit, aufgerufene Seite, Browser-Typ (Server-Logfiles des Hosting-Anbieters) |
+| Kontaktdaten | Name, E-Mail-Adresse, gegebenenfalls Telefonnummer |
+| Lieferdaten | Lieferadresse, soweit für Versand oder Abholung erforderlich |
+| Auftragsdaten | Übermittelte 3D-Modelle und CAD-Dateien, Links zu Modellen, Angaben zu Material, Farbe, Größe und Menge |
+| Zahlungs- und Belegdaten | Zahlungsstatus, Zahlungsart, Zahlungsreferenz, bei Überweisung Name und IBAN des Zahlers laut Kontoauszug, Angebot, Rechnung und gegebenenfalls Korrekturbelege |
+| Kommunikationsdaten | Inhalte der Kommunikation zu Anfrage, Angebot, Bestellung und Abwicklung |
+| Technische Zugriffsdaten | Beim Aufruf der Webseite: IP-Adresse, Datum und Uhrzeit, aufgerufene Seite, Browser-Typ (Server-Logfiles des Hosting-Anbieters) |
 
-Kontakt-, Liefer- und Auftragsdaten werden ausschließlich zur Abwicklung Ihrer Anfrage und Bestellung genutzt: Angebot, Zahlungsabwicklung, Fertigung, Rechnungsstellung, Versand und Kommunikation.
+Diese Daten verarbeiten wir ausschließlich, soweit dies für die Anbahnung, Durchführung und Abwicklung Ihrer Anfrage oder Bestellung erforderlich ist. Dazu gehören insbesondere Angebotserstellung, Zahlungsabwicklung, Fertigung, Rechnungsstellung, Versand, Kommunikation sowie die Erfüllung gesetzlicher Aufbewahrungspflichten. Die technischen Zugriffsdaten dienen allein der Auslieferung und dem sicheren Betrieb der Webseite.
 
 ---
 
-## 3. Rechtsgrundlage
+## 3. Rechtsgrundlagen
 
 | Zweck | Rechtsgrundlage |
 |---|---|
 | Anbahnung und Erfüllung des Vertrags | Art. 6 Abs. 1 lit. b DSGVO |
-| Gesetzliche Aufbewahrungspflichten (handels- und steuerrechtlich) | Art. 6 Abs. 1 lit. c DSGVO |
-| Sicherer und stabiler Betrieb der Webseite (Server-Logfiles) | Art. 6 Abs. 1 lit. f DSGVO |
+| Erfüllung gesetzlicher Aufbewahrungs- und Nachweispflichten | Art. 6 Abs. 1 lit. c DSGVO |
+| Wahrung berechtigter Interessen, beispielsweise Rechtsverteidigung, Missbrauchsverhinderung oder sicherer und stabiler Betrieb der Webseite (Server-Logfiles) | Art. 6 Abs. 1 lit. f DSGVO |
 
 ---
 
@@ -62,28 +65,57 @@ Kontakt-, Liefer- und Auftragsdaten werden ausschließlich zur Abwicklung Ihrer 
 
 Stripe Payments Europe, Ltd., Irland
 
-Bei der Zahlung werden Sie zu unserem Zahlungsdienstleister Stripe weitergeleitet. Ihre Zahlungsdaten, etwa Kartendaten, geben Sie dort direkt bei Stripe ein; sie werden ausschließlich von Stripe verarbeitet.
+Bei einer Zahlung über einen Stripe-Zahlungslink werden Sie zu unserem Zahlungsdienstleister Stripe weitergeleitet. Zahlungsdaten, etwa Kartendaten, geben Sie unmittelbar bei Stripe ein. Diese Zahlungsdaten werden nicht durch uns verarbeitet.
 
-> **Hinweis:**
-> Wir selbst erhalten und speichern **keine** Zahlungsdaten. An Stripe übermittelt werden von uns lediglich Ihre E-Mail-Adresse zur Vorausfüllung des Zahlungsformulars sowie der Zahlbetrag und die Auftragsbezeichnung.
+Wir übermitteln an Stripe nur die Daten, die für die Zahlungsabwicklung erforderlich sind, insbesondere Ihre E-Mail-Adresse zur Vorausfüllung des Zahlungsformulars, den Zahlbetrag sowie die Auftragsbezeichnung beziehungsweise Zahlungsreferenz.
 
-Im Rahmen der Konzernstruktur von Stripe kann es zu einer Datenübermittlung in die USA kommen. Diese ist durch die Standardvertragsklauseln der EU-Kommission gemäß Art. 46 Abs. 2 lit. c DSGVO sowie den Angemessenheitsbeschluss zum EU-US Data Privacy Framework gemäß Art. 45 DSGVO abgesichert.
+Im Rahmen der Konzernstruktur von Stripe kann es zu einer Verarbeitung personenbezogener Daten außerhalb der Europäischen Union beziehungsweise des Europäischen Wirtschaftsraums kommen. Soweit erforderlich, erfolgt diese auf Grundlage geeigneter Garantien nach Art. 44 ff. DSGVO, insbesondere Standardvertragsklauseln und – soweit anwendbar – eines Angemessenheitsbeschlusses.
 
 Weitere Informationen: <https://stripe.com/de/privacy>
 
+### Überweisung und PayPal
+
+Zahlen Sie per Überweisung, verarbeiten Ihre und unsere Bank die Zahlungsdaten (insbesondere Name, IBAN, Betrag und Verwendungszweck) in eigener Verantwortung. Wir erhalten diese Angaben über unseren Kontoauszug.
+
+Zahlen Sie per PayPal, erfolgt die Zahlung über PayPal (Europe) S.à r.l. et Cie, S.C.A., 22–24 Boulevard Royal, L-2449 Luxemburg, in eigener Verantwortung von PayPal. Wir erhalten dabei insbesondere Ihren Namen, Ihre PayPal-E-Mail-Adresse, den Betrag und den Verwendungszweck.
+
+Weitere Informationen: <https://www.paypal.com/de/legalhub/privacy-full>
+
 ### Google – E-Mail-Kommunikation
 
-Google Ireland Ltd., Irland
+Google Ireland Limited, Irland
 
-Zur Kommunikation per E-Mail sowie zum Versand von Angebot und Rechnung. Auch hier kann es zu einer Datenübermittlung in die USA kommen, abgesichert über die Standardvertragsklauseln und den Angemessenheitsbeschluss zum EU-US Data Privacy Framework.
+Wir verwenden Google-Dienste für die E-Mail-Kommunikation sowie für den Versand von Angeboten, Rechnungen und sonstigen vertragsbezogenen Nachrichten. Dabei können personenbezogene Daten, insbesondere Name, E-Mail-Adresse und Kommunikationsinhalte, verarbeitet werden.
+
+Im Rahmen der Konzernstruktur kann eine Verarbeitung außerhalb der Europäischen Union beziehungsweise des Europäischen Wirtschaftsraums stattfinden. Soweit erforderlich, erfolgt diese auf Grundlage geeigneter Garantien nach Art. 44 ff. DSGVO.
 
 Weitere Informationen: <https://policies.google.com/privacy>
+
+### Microsoft – Datenspeicherung
+
+Microsoft Ireland Operations Limited, Irland
+
+Auftrags-, Kunden- und Belegdaten sowie übermittelte 3D-Modelle speichern wir in unserer Auftragsverwaltung, deren Daten über Microsoft OneDrive gespeichert und gesichert werden. Microsoft verarbeitet diese Daten in unserem Auftrag.
+
+Im Rahmen der Konzernstruktur kann eine Verarbeitung außerhalb der Europäischen Union beziehungsweise des Europäischen Wirtschaftsraums stattfinden. Soweit erforderlich, erfolgt diese auf Grundlage geeigneter Garantien nach Art. 44 ff. DSGVO.
+
+Weitere Informationen: <https://privacy.microsoft.com/de-de/privacystatement>
+
+### Bambu Lab – Druckdienst
+
+Bambu Lab (Shenzhen Tuozhu Technology Co., Ltd., Shenzhen, China)
+
+Für den 3D-Druck können wir Druckdateien, die aus Ihren übermittelten 3D-Modellen erstellt werden, über den Cloud-Dienst von Bambu Lab an unseren 3D-Drucker senden. Übertragen werden dabei die Druckdaten des Modells, nicht Ihr Name oder Ihre Kontaktdaten.
+
+Dabei kann eine Verarbeitung außerhalb der Europäischen Union beziehungsweise des Europäischen Wirtschaftsraums, insbesondere in China, stattfinden. Für China besteht kein Angemessenheitsbeschluss der EU-Kommission; soweit erforderlich, erfolgt die Übermittlung auf Grundlage geeigneter Garantien nach Art. 46 DSGVO, insbesondere Standardvertragsklauseln.
+
+Weitere Informationen: <https://bambulab.com/de/policies/privacy>
 
 ### DHL / Deutsche Post – Versand
 
 DHL Paket GmbH, Sträßchensweg 10, 53113 Bonn, bzw. Deutsche Post AG, Charles-de-Gaulle-Straße 20, 53113 Bonn
 
-Zur Versandabwicklung und Zustellung Ihrer Sendung übermitteln wir Ihren Namen und Ihre Lieferanschrift an DHL bzw. die Deutsche Post. Die Daten werden dort zur Erstellung des Versandlabels, zur Sendungsverfolgung und zur Zustellung verwendet (Art. 6 Abs. 1 lit. b DSGVO). Ihre E-Mail-Adresse oder Telefonnummer geben wir dabei nicht weiter.
+Soweit ein Versand erforderlich ist, übermitteln wir Name und Lieferadresse an den von uns eingesetzten Versanddienstleister, damit das Versandlabel erstellt und die Sendung zugestellt werden kann. Ihre E-Mail-Adresse oder Telefonnummer geben wir dabei nicht weiter.
 
 Weitere Informationen: <https://www.dhl.de/de/toolbar/footer/datenschutz.html>
 
@@ -95,10 +127,7 @@ Unsere Webseite wird bei ALL-INKL.COM gehostet. Beim Aufruf verarbeitet der Host
 
 Weitere Informationen: <https://all-inkl.com/datenschutzinformationen/>
 
----
-
-> **Wichtig:**
-> Eine Weitergabe an sonstige Dritte erfolgt nicht, außer wir sind gesetzlich dazu verpflichtet.
+Eine Weitergabe an weitere Empfänger erfolgt nur, soweit dies für die Vertragsabwicklung erforderlich ist oder wir hierzu gesetzlich verpflichtet sind.
 
 ---
 
@@ -106,7 +135,7 @@ Weitere Informationen: <https://all-inkl.com/datenschutzinformationen/>
 
 Beim Aufruf unserer Webseite speichert der Hosting-Anbieter automatisch technische Zugriffsdaten in Server-Logfiles (IP-Adresse, Datum und Uhrzeit, aufgerufene Seite, Browser-Typ). Diese Daten sind erforderlich, um die Seite auszuliefern und den sicheren Betrieb zu gewährleisten, und werden nach kurzer Zeit automatisch gelöscht.
 
-Die Webseite verwendet **keine Cookies**, **kein Tracking** und **keine Analyse-Dienste**. Schriften werden von unserem eigenen Server geladen; es findet keine Verbindung zu Google Fonts oder anderen Schriftanbietern statt.
+Die Webseite verwendet keine Cookies, kein Tracking und keine Analyse-Dienste. Schriften werden von unserem eigenen Server geladen; es findet keine Verbindung zu Google Fonts oder anderen Schriftanbietern statt.
 
 Das Anfrageformular auf der Webseite überträgt keine Daten an unseren Server. Es öffnet lediglich Ihr eigenes E-Mail-Programm mit einem vorausgefüllten Entwurf. Erst mit dem Absenden der E-Mail übermitteln Sie uns Ihre Angaben (siehe Google – E-Mail-Kommunikation).
 
@@ -116,16 +145,19 @@ Das Anfrageformular auf der Webseite überträgt keine Daten an unseren Server. 
 
 | Daten | Dauer |
 |---|---|
-| **Buchungsbelege** (Rechnungen, Angebote) | 8 Jahre gemäß § 147 AO, § 257 HGB, § 14b UStG |
-| **Übermittelte 3D-Modelle und CAD-Dateien** | Löschung spätestens 12 Monate nach Abschluss des Auftrags |
+| Buchungsbelege, insbesondere Rechnungen und Korrekturbelege | 8 Jahre nach den einschlägigen handels- und steuerrechtlichen Aufbewahrungspflichten |
+| Angebote und auftragsbezogene Kommunikation | grundsätzlich bis zum Abschluss der Anfrage beziehungsweise des Auftrags; bei steuerlich oder rechtlich relevanter Bedeutung entsprechend den gesetzlichen Aufbewahrungsfristen |
+| Übermittelte 3D-Modelle und CAD-Dateien | Löschung spätestens 12 Monate nach Abschluss des Auftrags, sofern keine längere Aufbewahrung ausdrücklich vereinbart wurde oder gesetzliche Pflichten entgegenstehen |
+| E-Mail- und sonstige Kommunikationsdaten | Löschung, sobald sie für die Vertragsabwicklung und etwaige gesetzliche Aufbewahrungspflichten nicht mehr erforderlich sind |
+| Server-Logfiles der Webseite | Löschung nach kurzer Zeit automatisch durch den Hosting-Anbieter |
 
-Nach Ablauf der Fristen werden die Daten gelöscht, sofern keine weiteren gesetzlichen Aufbewahrungspflichten bestehen. Eine längere Aufbewahrung Ihrer Dateien für spätere Nachdrucke erfolgt nur auf Ihren ausdrücklichen Wunsch.
+Nach Ablauf der jeweiligen Fristen werden die Daten gelöscht, sofern keine gesetzlichen Aufbewahrungspflichten oder berechtigten Interessen an einer weiteren Speicherung entgegenstehen.
 
 ---
 
 ## 7. Bereitstellung der Daten
 
-Die Bereitstellung Ihrer Daten ist gesetzlich nicht vorgeschrieben, für den Vertragsschluss und die Abwicklung Ihres Auftrags jedoch erforderlich. Ohne diese Angaben können wir Ihren Auftrag nicht bearbeiten.
+Die Bereitstellung Ihrer Daten ist gesetzlich nicht vorgeschrieben. Für den Vertragsschluss und die Durchführung Ihrer Bestellung sind bestimmte Angaben jedoch erforderlich. Ohne diese Angaben können wir Ihren Auftrag gegebenenfalls nicht bearbeiten oder durchführen.
 
 ---
 
@@ -137,7 +169,7 @@ Eine automatisierte Entscheidungsfindung einschließlich Profiling gemäß Art. 
 
 ## 9. Ihre Rechte
 
-Sie haben folgende Rechte:
+Sie haben – vorbehaltlich der jeweiligen gesetzlichen Voraussetzungen – folgende Rechte:
 
 | Recht | Rechtsgrundlage |
 |---|---|
@@ -146,19 +178,14 @@ Sie haben folgende Rechte:
 | Löschung | Art. 17 DSGVO |
 | Einschränkung der Verarbeitung | Art. 18 DSGVO |
 | Datenübertragbarkeit | Art. 20 DSGVO |
-| Widerspruch gegen die Verarbeitung | Art. 21 DSGVO |
+| Widerspruch | Art. 21 DSGVO |
 
-Wenden Sie sich hierzu an die oben genannte E-Mail-Adresse.
+Für die Ausübung Ihrer Rechte können Sie sich an die oben genannte E-Mail-Adresse wenden.
 
-### Beschwerderecht
+Sie haben außerdem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren. Zuständig für uns ist:
 
-Sie haben außerdem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren. Zuständig ist für uns:
-
-> **Der Landesbeauftragte für den Datenschutz und die Informationsfreiheit Baden-Württemberg**
-> Lautenschlagerstraße 20
-> 70173 Stuttgart
-> <https://www.baden-wuerttemberg.datenschutz.de>
-
----
-
-<sub>Stand: 10/2026</sub>
+Der Landesbeauftragte für den Datenschutz und die Informationsfreiheit Baden-Württemberg  
+Lautenschlagerstraße 20  
+70173 Stuttgart  
+Deutschland  
+<https://www.baden-wuerttemberg.datenschutz.de>
