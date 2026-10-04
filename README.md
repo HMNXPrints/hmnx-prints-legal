@@ -25,7 +25,7 @@ Am Stadtgarten 9
 78647 Trossingen  
 Deutschland  
 
-E-Mail: [hmnx.prints@gmail.com](mailto:hmnx.prints@gmail.com)
+E-Mail: [info@hmnxprints.de](mailto:info@hmnxprints.de)
 
 Weitere Angaben findest du im [Impressum](impressum.md).
 

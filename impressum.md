@@ -14,7 +14,7 @@ Deutschland
 
 ## Kontakt
 
-E-Mail: [hmnx.prints@gmail.com](mailto:hmnx.prints@gmail.com)  
+E-Mail: [info@hmnxprints.de](mailto:info@hmnxprints.de)  
 Telefon: [+49 151 70074500](tel:+4915170074500)
 
 ## Steuerliche Angaben

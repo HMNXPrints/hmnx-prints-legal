@@ -5,7 +5,7 @@ Stephan Peter
 Am Stadtgarten 9  
 78647 Trossingen  
 Deutschland  
-E-Mail: hmnx.prints@gmail.com
+E-Mail: info@hmnxprints.de
 
 Stand: 10/2026
 
@@ -213,7 +213,7 @@ HMNX.Prints
 Am Stadtgarten 9  
 78647 Trossingen  
 Deutschland  
-E-Mail: hmnx.prints@gmail.com
+E-Mail: info@hmnxprints.de
 
 mittels einer eindeutigen Erklärung, beispielsweise mit einem per Post versandten Brief oder einer E-Mail, über Ihren Entschluss informieren, diesen Vertrag zu widerrufen. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
 
@@ -252,7 +252,7 @@ HMNX.Prints
 Am Stadtgarten 9  
 78647 Trossingen  
 Deutschland  
-E-Mail: hmnx.prints@gmail.com
+E-Mail: info@hmnxprints.de
 
 mittels einer eindeutigen Erklärung, beispielsweise mit einem per Post versandten Brief oder einer E-Mail, über Ihren Entschluss informieren, diesen Vertrag zu widerrufen. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
 
@@ -287,7 +287,7 @@ HMNX.Prints
 Am Stadtgarten 9  
 78647 Trossingen  
 Deutschland  
-E-Mail: hmnx.prints@gmail.com
+E-Mail: info@hmnxprints.de
 
 Hiermit widerrufe(n) ich/wir (*) den von mir/uns (*) abgeschlossenen Vertrag über den Kauf der folgenden Waren (*) / die Lieferung der folgenden digitalen Inhalte (*):
 
