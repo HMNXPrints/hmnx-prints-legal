@@ -17,6 +17,7 @@ Deutschland
 | | |
 |---|---|
 | **E-Mail** | [hmnx.prints@gmail.com](mailto:hmnx.prints@gmail.com) |
+| **Telefon** | [+49 151 70074500](tel:+4915170074500) |
 
 ## Steuerliche Angaben
 
@@ -39,9 +40,9 @@ Wir sind **nicht bereit und nicht verpflichtet**, an Streitbeilegungsverfahren v
 
 ## Weitere Dokumente
 
-- [AGB und Widerrufsbedingungen](agb.md)
+- [AGB und Widerrufsbelehrung](agb.md)
 - [Datenschutzhinweise](datenschutz.md)
 
 ---
 
-<sub>Stand: 09/2026</sub>
+<sub>Stand: 10/2026</sub>
