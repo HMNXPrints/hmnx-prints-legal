@@ -2,8 +2,6 @@
 
 **HMNX.Prints** · Informationen nach Art. 13 DSGVO
 
-> Das Impressum finden Sie in [impressum.md](impressum.md).
-> Die AGB und Widerrufsbedingungen finden Sie in [agb.md](agb.md).
 
 ---
 
