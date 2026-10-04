@@ -22,7 +22,6 @@ Deutschland
 
 | | |
 |---|---|
-| **Steuernummer** | `[Steuernummer eintragen]` |
 | **USt-IdNr.** | Nicht vorhanden |
 
 > **Hinweis:**

@@ -1,3 +1,4 @@
+# Skript und Schriften liegen unter .github/pdf/ (fuer Besucher unauffaellig).
 # Erstellt bei jeder Aenderung an den Rechtstexten automatisch die PDFs im
 # Ordner pdf/ und legt sie im Repository ab. Der "Stand" in der Fusszeile ist
 # der Monat der letzten Aenderung der jeweiligen .md-Datei.
@@ -10,7 +11,7 @@ on:
       - agb.md
       - datenschutz.md
       - impressum.md
-      - tools/**
+      - .github/pdf/**
       - .github/workflows/rechtstexte-pdf.yml
   workflow_dispatch:
 
@@ -36,9 +37,9 @@ jobs:
         run: |
           stand() { git log -1 --format=%cd --date=format:%m/%Y -- "$1"; }
           footer="HMNX.Prints · Stephan Peter · Stand:"
-          python tools/markdown_zu_pdf.py agb.md -o pdf/AGB-und-Widerrufsbelehrung.pdf --footer "$footer $(stand agb.md)"
-          python tools/markdown_zu_pdf.py datenschutz.md -o pdf/Datenschutzhinweise.pdf --footer "$footer $(stand datenschutz.md)" --no-section-page-breaks
-          python tools/markdown_zu_pdf.py impressum.md -o pdf/Impressum.pdf --footer "$footer $(stand impressum.md)" --no-section-page-breaks
+          python .github/pdf/markdown_zu_pdf.py agb.md -o pdf/AGB-und-Widerrufsbelehrung.pdf --footer "$footer $(stand agb.md)"
+          python .github/pdf/markdown_zu_pdf.py datenschutz.md -o pdf/Datenschutzhinweise.pdf --footer "$footer $(stand datenschutz.md)" --no-section-page-breaks
+          python .github/pdf/markdown_zu_pdf.py impressum.md -o pdf/Impressum.pdf --footer "$footer $(stand impressum.md)" --no-section-page-breaks
 
       - name: PDFs im Repository ablegen
         run: |

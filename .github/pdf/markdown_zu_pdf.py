@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Markdown-Rechtstexte als druckfreundliche A4-PDF erzeugen.
 
-Laeuft automatisch per GitHub Action (.github/workflows/rechtstexte-pdf.yml),
+Laeuft automatisch per GitHub Action (../workflows/rechtstexte-pdf.yml),
 sobald sich agb.md, datenschutz.md oder impressum.md aendern. Gleicher Text
 ergibt byte-gleiche PDFs (reportlab "invariant"), damit Programme, die die PDF
 per Link auf Aenderungen pruefen (z. B. Partdock), nur echte Aenderungen sehen.
