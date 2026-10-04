@@ -16,7 +16,7 @@ Deutschland
 
 | | |
 |---|---|
-| **E-Mail** | hmnx.prints@gmail.com |
+| **E-Mail** | [hmnx.prints@gmail.com](mailto:hmnx.prints@gmail.com) |
 
 ## Steuerliche Angaben
 
