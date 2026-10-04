@@ -1,12 +1,12 @@
 # Impressum
 
-> Angaben gemäß § 5 DDG
+Angaben gemäß § 5 Digitale-Dienste-Gesetz (DDG)
 
 ---
 
 ## Anbieter
 
-**Stephan Peter**  
+Stephan Peter  
 HMNX.Prints  
 Am Stadtgarten 9  
 78647 Trossingen  
@@ -14,19 +14,14 @@ Deutschland
 
 ## Kontakt
 
-| | |
-|---|---|
-| **E-Mail** | [hmnx.prints@gmail.com](mailto:hmnx.prints@gmail.com) |
-| **Telefon** | [+49 151 70074500](tel:+4915170074500) |
+E-Mail: [hmnx.prints@gmail.com](mailto:hmnx.prints@gmail.com)  
+Telefon: [+49 151 70074500](tel:+4915170074500)
 
 ## Steuerliche Angaben
 
-| | |
-|---|---|
-| **USt-IdNr.** | Nicht vorhanden |
+Umsatzsteuer-Identifikationsnummer: Nicht vorhanden
 
-> **Hinweis:**
-> Gemäß **§ 19 Abs. 1 UStG** (Kleinunternehmerregelung) wird keine Umsatzsteuer berechnet und ausgewiesen. Eine Umsatzsteuer-Identifikationsnummer liegt daher nicht vor.
+Gemäß § 19 Abs. 1 UStG (Kleinunternehmerregelung) wird keine Umsatzsteuer berechnet und ausgewiesen. Eine Umsatzsteuer-Identifikationsnummer liegt daher nicht vor.
 
 ## Verantwortlich für den Inhalt
 
@@ -34,7 +29,7 @@ Stephan Peter, Anschrift wie oben.
 
 ## Verbraucherstreitbeilegung
 
-Wir sind **nicht bereit und nicht verpflichtet**, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+Wir sind nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
 ---
 
@@ -45,4 +40,4 @@ Wir sind **nicht bereit und nicht verpflichtet**, an Streitbeilegungsverfahren v
 
 ---
 
-<sub>Stand: 10/2026</sub>
+Stand: 10/2026
