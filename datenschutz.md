@@ -133,7 +133,7 @@ Eine Weitergabe an weitere Empfänger erfolgt nur, soweit dies für die Vertrags
 
 ## 5. Besuch der Webseite
 
-Beim Aufruf unserer Webseite speichert der Hosting-Anbieter automatisch technische Zugriffsdaten in Server-Logfiles (IP-Adresse, Datum und Uhrzeit, aufgerufene Seite, Browser-Typ). Diese Daten sind erforderlich, um die Seite auszuliefern und den sicheren Betrieb zu gewährleisten, und werden nach kurzer Zeit automatisch gelöscht.
+Beim Aufruf unserer Webseite speichert der Hosting-Anbieter automatisch technische Zugriffsdaten in Server-Logfiles (IP-Adresse, Datum und Uhrzeit, aufgerufene Seite, Browser-Typ). Diese Daten sind erforderlich, um die Seite auszuliefern und den sicheren Betrieb zu gewährleisten. Die Server-Logfiles werden grundsätzlich spätestens nach sieben Tagen gelöscht. Eine längere Speicherung erfolgt nur im Einzelfall, insbesondere wenn dies zur Aufklärung eines Sicherheitsvorfalls erforderlich ist.
 
 Die Webseite verwendet keine Cookies, kein Tracking und keine Analyse-Dienste. Schriften werden von unserem eigenen Server geladen; es findet keine Verbindung zu Google Fonts oder anderen Schriftanbietern statt.
 
@@ -149,7 +149,7 @@ Das Anfrageformular auf der Webseite überträgt keine Daten an unseren Server. 
 | Angebote und auftragsbezogene Kommunikation | grundsätzlich bis zum Abschluss der Anfrage beziehungsweise des Auftrags; bei steuerlich oder rechtlich relevanter Bedeutung entsprechend den gesetzlichen Aufbewahrungsfristen |
 | Übermittelte 3D-Modelle und CAD-Dateien | Löschung spätestens 12 Monate nach Abschluss des Auftrags, sofern keine längere Aufbewahrung ausdrücklich vereinbart wurde oder gesetzliche Pflichten entgegenstehen |
 | E-Mail- und sonstige Kommunikationsdaten | Löschung, sobald sie für die Vertragsabwicklung und etwaige gesetzliche Aufbewahrungspflichten nicht mehr erforderlich sind |
-| Server-Logfiles der Webseite | Löschung nach kurzer Zeit automatisch durch den Hosting-Anbieter |
+| Server-Logfiles der Webseite | Spätestens nach sieben Tagen automatisch durch den Hosting-Anbieter; länger nur im Einzelfall zur Aufklärung eines Sicherheitsvorfalls |
 
 Nach Ablauf der jeweiligen Fristen werden die Daten gelöscht, sofern keine gesetzlichen Aufbewahrungspflichten oder berechtigten Interessen an einer weiteren Speicherung entgegenstehen.
 
