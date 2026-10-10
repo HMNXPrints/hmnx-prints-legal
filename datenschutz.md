@@ -42,7 +42,7 @@ Bei einer Anfrage und Bestellung verarbeiten wir insbesondere folgende Daten:
 | Lieferdaten | Lieferadresse, soweit für Versand oder Abholung erforderlich |
 | Auftragsdaten | Übermittelte 3D-Modelle und CAD-Dateien, Links zu Modellen, Angaben zu Material, Farbe, Größe und Menge |
 | Zahlungs- und Belegdaten | Zahlungsstatus, Zahlungsart, Zahlungsreferenz, bei Überweisung Name und IBAN des Zahlers laut Kontoauszug, Angebot, Rechnung und gegebenenfalls Korrekturbelege |
-| Kommunikationsdaten | Inhalte der Kommunikation zu Anfrage, Angebot, Bestellung und Abwicklung |
+| Kommunikationsdaten | Inhalte der Kommunikation zu Anfrage, Angebot, Bestellung und Abwicklung, auch über Kleinanzeigen oder Instagram (dort zusätzlich Ihr Nutzer- beziehungsweise Profilname) |
 | Technische Zugriffsdaten | Beim Aufruf der Webseite: IP-Adresse, Datum und Uhrzeit, aufgerufene Seite, Browser-Typ (Server-Logfiles des Hosting-Anbieters) |
 
 Diese Daten verarbeiten wir ausschließlich, soweit dies für die Anbahnung, Durchführung und Abwicklung Ihrer Anfrage oder Bestellung erforderlich ist. Dazu gehören insbesondere Angebotserstellung, Zahlungsabwicklung, Fertigung, Rechnungsstellung, Versand, Kommunikation sowie die Erfüllung gesetzlicher Aufbewahrungspflichten. Die technischen Zugriffsdaten dienen allein der Auslieferung und dem sicheren Betrieb der Webseite.
@@ -55,7 +55,7 @@ Diese Daten verarbeiten wir ausschließlich, soweit dies für die Anbahnung, Dur
 |---|---|
 | Anbahnung und Erfüllung des Vertrags | Art. 6 Abs. 1 lit. b DSGVO |
 | Erfüllung gesetzlicher Aufbewahrungs- und Nachweispflichten | Art. 6 Abs. 1 lit. c DSGVO |
-| Wahrung berechtigter Interessen, beispielsweise Rechtsverteidigung, Missbrauchsverhinderung oder sicherer und stabiler Betrieb der Webseite (Server-Logfiles) | Art. 6 Abs. 1 lit. f DSGVO |
+| Wahrung berechtigter Interessen, beispielsweise Rechtsverteidigung, Missbrauchsverhinderung, sicherer und stabiler Betrieb der Webseite (Server-Logfiles) sowie Darstellung unseres Angebots und allgemeine Kommunikation auf Kleinanzeigen und Instagram | Art. 6 Abs. 1 lit. f DSGVO |
 
 ---
 
@@ -126,6 +126,26 @@ ALL-INKL.COM – Neue Medien Münnich, Inhaber René Münnich, Hauptstraße 68, 
 Unsere Webseite wird bei ALL-INKL.COM gehostet. Beim Aufruf verarbeitet der Hosting-Anbieter in unserem Auftrag die technisch notwendigen Zugriffsdaten (Server-Logfiles, siehe Abschnitt 5). Die Server befinden sich in Deutschland.
 
 Weitere Informationen: <https://all-inkl.com/datenschutzinformationen/>
+
+### Kleinanzeigen – Anzeigen und Nachrichten
+
+kleinanzeigen.de GmbH, Dernburgstraße 50, 14057 Berlin
+
+Wir bieten unsere Leistungen auch über Anzeigen auf kleinanzeigen.de an. Wenn Sie uns über Kleinanzeigen kontaktieren, verarbeiten wir die Angaben, die Sie uns dort übermitteln, insbesondere Ihren Nutzernamen, den Inhalt Ihrer Nachrichten und gegebenenfalls beigefügte Bilder oder Dateien, um Ihre Anfrage zu bearbeiten und ein Angebot zu erstellen. Die Nachrichten werden auf der Plattform gespeichert. Für die Verarbeitung im Rahmen Ihres Nutzerkontos und der Plattform selbst ist die kleinanzeigen.de GmbH eigenständig verantwortlich.
+
+Weitere Informationen: <https://themen.kleinanzeigen.de/datenschutzerklaerung/>
+
+### Instagram – Unternehmensprofil
+
+Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Irland
+
+Wir betreiben ein Unternehmensprofil auf Instagram (@hmnx.prints). Wenn Sie uns dort folgen, Beiträge kommentieren oder uns eine Nachricht schreiben, verarbeiten wir die dabei übermittelten Angaben, insbesondere Ihren Profilnamen und den Inhalt Ihres Kommentars oder Ihrer Nachricht, um Ihnen zu antworten und Ihre Anfrage zu bearbeiten.
+
+Meta stellt uns außerdem zusammengefasste Statistiken zur Nutzung unseres Profils zur Verfügung (Insights). Für die Verarbeitung zu diesen Statistiken sind wir gemeinsam mit Meta verantwortlich (Art. 26 DSGVO). Die Einzelheiten regelt die Vereinbarung von Meta über die gemeinsame Verantwortlichkeit: <https://www.facebook.com/legal/terms/page_controller_addendum>. Danach übernimmt Meta die Erfüllung der Betroffenenrechte für diese Verarbeitung; Sie können sich aber auch an uns wenden. Für alle übrigen Verarbeitungen auf Instagram ist Meta eigenständig verantwortlich.
+
+Im Rahmen der Konzernstruktur von Meta kann eine Verarbeitung außerhalb der Europäischen Union beziehungsweise des Europäischen Wirtschaftsraums, insbesondere in den USA, stattfinden. Soweit erforderlich, erfolgt diese auf Grundlage eines Angemessenheitsbeschlusses (EU-U.S. Data Privacy Framework) beziehungsweise geeigneter Garantien nach Art. 44 ff. DSGVO.
+
+Weitere Informationen: <https://privacycenter.instagram.com/policy>
 
 Eine Weitergabe an weitere Empfänger erfolgt nur, soweit dies für die Vertragsabwicklung erforderlich ist oder wir hierzu gesetzlich verpflichtet sind.
 
