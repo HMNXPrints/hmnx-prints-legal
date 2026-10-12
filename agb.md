@@ -73,11 +73,11 @@ Stand: 10/2026
 
 ### § 4 Lieferung und Versand
 
-(1) Der Versand körperlicher Waren erfolgt je nach Größe und Gewicht als Brief, Versandtasche oder Paket, überwiegend über DHL. Alternativ ist eine Selbstabholung nach Absprache möglich.
+(1) Der Versand körperlicher Waren erfolgt je nach Größe und Gewicht als Brief, Versandtasche oder Paket über einen Versanddienstleister, insbesondere DHL / Deutsche Post oder Hermes. Alternativ ist eine Selbstabholung nach Absprache möglich.
 
 (2) Die Fertigungszeit wird im jeweiligen Angebot konkret angegeben und ab Zahlungseingang gerechnet, bei Barzahlung bei Abholung ab Eingang der Bestätigung.
 
-(3) Die Versanddauer beträgt in der Regel etwa 3 bis 5 Werktage nach Übergabe an DHL. Maßgeblich ist der im Angebot genannte Liefertermin.
+(3) Die Versanddauer beträgt in der Regel etwa 3 bis 5 Werktage nach Übergabe an den Versanddienstleister. Maßgeblich ist der im Angebot genannte Liefertermin.
 
 ### § 5 Eigentumsvorbehalt
 

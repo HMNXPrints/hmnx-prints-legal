@@ -111,13 +111,15 @@ Dabei kann eine Verarbeitung außerhalb der Europäischen Union beziehungsweise 
 
 Weitere Informationen: <https://bambulab.com/de/policies/privacy>
 
-### DHL / Deutsche Post – Versand
+### Versanddienstleister – DHL / Deutsche Post und Hermes
 
 DHL Paket GmbH, Sträßchensweg 10, 53113 Bonn, bzw. Deutsche Post AG, Charles-de-Gaulle-Straße 20, 53113 Bonn
 
-Soweit ein Versand erforderlich ist, übermitteln wir Name und Lieferadresse an den von uns eingesetzten Versanddienstleister, damit das Versandlabel erstellt und die Sendung zugestellt werden kann. Ihre E-Mail-Adresse oder Telefonnummer geben wir dabei nicht weiter.
+Hermes Germany GmbH, Essener Bogen 1, 22419 Hamburg
 
-Weitere Informationen: <https://www.dhl.de/de/toolbar/footer/datenschutz.html>
+Soweit ein Versand erforderlich ist, übermitteln wir Name und Lieferadresse an den jeweils eingesetzten Versanddienstleister, damit das Versandlabel erstellt und die Sendung zugestellt werden kann. Welcher Dienstleister eingesetzt wird, richtet sich nach Größe, Gewicht und Ziel der Sendung. Ihre E-Mail-Adresse oder Telefonnummer geben wir dabei nicht weiter.
+
+Weitere Informationen: <https://www.dhl.de/de/toolbar/footer/datenschutz.html> und <https://www.myhermes.de/datenschutz/>
 
 ### ALL-INKL.COM – Hosting der Webseite
 
