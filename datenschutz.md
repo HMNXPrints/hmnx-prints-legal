@@ -42,7 +42,7 @@ Bei einer Anfrage und Bestellung verarbeiten wir insbesondere folgende Daten:
 | Lieferdaten | Lieferadresse, soweit für Versand oder Abholung erforderlich |
 | Auftragsdaten | Übermittelte 3D-Modelle und CAD-Dateien, Links zu Modellen, Angaben zu Material, Farbe, Größe und Menge |
 | Zahlungs- und Belegdaten | Zahlungsstatus, Zahlungsart, Zahlungsreferenz, bei Überweisung Name und IBAN des Zahlers laut Kontoauszug, Angebot, Rechnung und gegebenenfalls Korrekturbelege |
-| Kommunikationsdaten | Inhalte der Kommunikation zu Anfrage, Angebot, Bestellung und Abwicklung, auch über Kleinanzeigen oder Instagram (dort zusätzlich Ihr Nutzer- beziehungsweise Profilname) |
+| Kommunikationsdaten | Inhalte der Kommunikation zu Anfrage, Angebot, Bestellung und Abwicklung, auch über Kleinanzeigen, Instagram oder WhatsApp (dort zusätzlich Ihr Nutzer- beziehungsweise Profilname und bei WhatsApp gegebenenfalls Ihre Telefonnummer) |
 | Technische Zugriffsdaten | Beim Aufruf der Webseite: IP-Adresse, Datum und Uhrzeit, aufgerufene Seite, Browser-Typ (Server-Logfiles des Hosting-Anbieters) |
 
 Diese Daten verarbeiten wir ausschließlich, soweit dies für die Anbahnung, Durchführung und Abwicklung Ihrer Anfrage oder Bestellung erforderlich ist. Dazu gehören insbesondere Angebotserstellung, Zahlungsabwicklung, Fertigung, Rechnungsstellung, Versand, Kommunikation sowie die Erfüllung gesetzlicher Aufbewahrungspflichten. Die technischen Zugriffsdaten dienen allein der Auslieferung und dem sicheren Betrieb der Webseite.
@@ -55,7 +55,7 @@ Diese Daten verarbeiten wir ausschließlich, soweit dies für die Anbahnung, Dur
 |---|---|
 | Anbahnung und Erfüllung des Vertrags | Art. 6 Abs. 1 lit. b DSGVO |
 | Erfüllung gesetzlicher Aufbewahrungs- und Nachweispflichten | Art. 6 Abs. 1 lit. c DSGVO |
-| Wahrung berechtigter Interessen, beispielsweise Rechtsverteidigung, Missbrauchsverhinderung, sicherer und stabiler Betrieb der Webseite (Server-Logfiles) sowie Darstellung unseres Angebots und allgemeine Kommunikation auf Kleinanzeigen und Instagram | Art. 6 Abs. 1 lit. f DSGVO |
+| Wahrung berechtigter Interessen, beispielsweise Rechtsverteidigung, Missbrauchsverhinderung, sicherer und stabiler Betrieb der Webseite (Server-Logfiles) sowie Darstellung unseres Angebots und allgemeine Kommunikation auf Kleinanzeigen, Instagram und WhatsApp | Art. 6 Abs. 1 lit. f DSGVO |
 
 ---
 
@@ -148,6 +148,18 @@ Meta stellt uns außerdem zusammengefasste Statistiken zur Nutzung unseres Profi
 Im Rahmen der Konzernstruktur von Meta kann eine Verarbeitung außerhalb der Europäischen Union beziehungsweise des Europäischen Wirtschaftsraums, insbesondere in den USA, stattfinden. Soweit erforderlich, erfolgt diese auf Grundlage eines Angemessenheitsbeschlusses (EU-U.S. Data Privacy Framework) beziehungsweise geeigneter Garantien nach Art. 44 ff. DSGVO.
 
 Weitere Informationen: <https://privacycenter.instagram.com/policy>
+
+### WhatsApp Business – Nachrichten
+
+WhatsApp Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Irland
+
+Sie können uns über WhatsApp Business erreichen (@hmnx.prints). Wenn Sie uns dort schreiben, verarbeiten wir die dabei übermittelten Angaben, insbesondere Ihren Profilnamen, gegebenenfalls Ihre Telefonnummer sowie den Inhalt Ihrer Nachricht und mitgeschickte Fotos, um Ihre Anfrage zu beantworten und zu bearbeiten. Die Kontaktaufnahme über WhatsApp ist freiwillig; Sie erreichen uns ebenso per E-Mail.
+
+Die Nachrichten werden Ende-zu-Ende-verschlüsselt übertragen. WhatsApp beziehungsweise Meta verarbeitet jedoch Metadaten, etwa wer wann mit wem kommuniziert, in eigener Verantwortung. Im Rahmen der Konzernstruktur von Meta kann eine Verarbeitung außerhalb der Europäischen Union beziehungsweise des Europäischen Wirtschaftsraums, insbesondere in den USA, stattfinden. Soweit erforderlich, erfolgt diese auf Grundlage eines Angemessenheitsbeschlusses (EU-U.S. Data Privacy Framework) beziehungsweise geeigneter Garantien nach Art. 44 ff. DSGVO.
+
+Auftragsbezogene Inhalte aus WhatsApp-Chats speichern wir, soweit sie für die Vertragsabwicklung oder gesetzliche Aufbewahrungspflichten erforderlich sind; im Übrigen löschen wir Chats, sobald die Anfrage abgeschlossen ist.
+
+Weitere Informationen: <https://www.whatsapp.com/legal/privacy-policy-eea>
 
 Eine Weitergabe an weitere Empfänger erfolgt nur, soweit dies für die Vertragsabwicklung erforderlich ist oder wir hierzu gesetzlich verpflichtet sind.
 
